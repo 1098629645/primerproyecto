@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/primera-spa/static/css/main.a617e044.chunk.css",
+    "main.js": "/primera-spa/static/js/main.d7615188.chunk.js",
+    "main.js.map": "/primera-spa/static/js/main.d7615188.chunk.js.map",
+    "runtime-main.js": "/primera-spa/static/js/runtime-main.de278825.js",
+    "runtime-main.js.map": "/primera-spa/static/js/runtime-main.de278825.js.map",
+    "static/js/2.961fb967.chunk.js": "/primera-spa/static/js/2.961fb967.chunk.js",
+    "static/js/2.961fb967.chunk.js.map": "/primera-spa/static/js/2.961fb967.chunk.js.map",
+    "static/js/3.f39da05d.chunk.js": "/primera-spa/static/js/3.f39da05d.chunk.js",
+    "static/js/3.f39da05d.chunk.js.map": "/primera-spa/static/js/3.f39da05d.chunk.js.map",
+    "index.html": "/primera-spa/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/primera-spa/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.961fb967.chunk.js.LICENSE.txt": "/primera-spa/static/js/2.961fb967.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/primera-spa/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de278825.js",
+    "static/js/2.961fb967.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d7615188.chunk.js"
+  ]
+}
